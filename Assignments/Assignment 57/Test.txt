@@ -1,0 +1,2 @@
+// 1. Write java program to accept two file names from user and open first file and create 
+// new file (Second name) and copy the data from first file into newly created file.
