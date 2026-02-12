@@ -1,0 +1,8 @@
+File Name : A.txt Size : 4
+Jay 
+File Name : B.txt Size : 7
+Ganesh 
+File Name : C.txt Size : 3
+...
+File Name : D.txt Size : 7
+ Sir !!
